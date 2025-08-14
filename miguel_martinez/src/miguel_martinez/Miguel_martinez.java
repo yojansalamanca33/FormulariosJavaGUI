@@ -29,7 +29,7 @@ public class Miguel_martinez {
         System.out.println("La Nota Es Aceptable ");}
          else if (NF>=4 && NF==5){
         System.out.println("La Nota Es Destacado ");}
-        System.out.println("La Nota Final Es: "+NF);  
+        System.out.println("La Nota Final Es: "+NF);   // TODO code application logic here
     }
     
 }
